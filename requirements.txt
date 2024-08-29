@@ -4,3 +4,5 @@ langchain_community
 tiktoken
 bs4
 unstructured
+faiss-cpu
+chromadb
