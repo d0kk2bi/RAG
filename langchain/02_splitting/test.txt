@@ -1,1 +1,2 @@
-Hello World!
+'Hello World' is my favorite sentence!
+'Bye World' is my favorite sentence!
